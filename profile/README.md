@@ -1,5 +1,3 @@
----
-
 # XCare 🩺🤖
 
 **Revolutionizing medical diagnostics and rehabilitation, one scan at a time.**
