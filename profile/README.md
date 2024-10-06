@@ -1,5 +1,3 @@
-Here’s a well-structured and visually appealing GitHub README for your XCare project:
-
 ---
 
 # XCare 🩺🤖
